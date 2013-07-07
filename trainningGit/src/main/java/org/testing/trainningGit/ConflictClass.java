@@ -3,7 +3,11 @@ package org.testing.trainningGit;
 public class ConflictClass {
 	
 	private String master;
-
+	
+	private String tarea1;
+	
+	private String tarea1;
+	
 	private String tarea2;
 
 	public String getTarea2() {
@@ -14,4 +18,7 @@ public class ConflictClass {
 		this.tarea2 = tarea2;
 	}
 	
+
+
+
 }
