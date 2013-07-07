@@ -6,8 +6,6 @@ public class ConflictClass {
 	
 	private String tarea1;
 	
-	private String tarea1;
-	
 	private String tarea2;
 
 	public String getTarea2() {
